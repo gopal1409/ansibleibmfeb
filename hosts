@@ -1,1 +1,6 @@
+[web]
 worker
+[db]
+db1
+db2
+db3
